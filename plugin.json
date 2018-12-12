@@ -1,0 +1,15 @@
+{
+	"description": "<p>uafilm.tv :: Свободный торрент трекер<p>Для дополнительной информации, посетите  <a href=\"https://uafilm.tv\">https://uafilm.tv</a>",
+	"author": "lprot", 
+	"homepage": "https://github.com/Igoriy/Igory",
+	"title": "uafilm",
+	"synopsis": "uafilm.tv :: Свободный торрент трекер",
+	"version": "0.3.3",
+        "file": "uafilm.js",
+	"showtimeVersion": "4.8",
+	"type": "ecmascript",
+	"icon": "logo.png",
+	"id": "uafilm",
+	"category": "video",
+        "apiversion": 2
+}
